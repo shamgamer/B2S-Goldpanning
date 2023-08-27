@@ -3,7 +3,7 @@ B2S-Goldpanning is a FiveM QB-Core script that allows players to pan for gold an
 
 -----
 
-preview vid here
+https://github.com/shamgamer/B2S-Goldpanning/assets/63604663/fe60e3bf-37ef-45de-8056-f273a865fc8f
 
 -----
 
